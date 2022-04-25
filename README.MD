@@ -1,6 +1,6 @@
 # Calculadora feita em React Native 
 
-:point_right: Programas e tecnologias utilizadas:
+:point_right:  Programas e tecnologias utilizadas:
 
  - React Native
  - Expo Go (Para emulação do aplicativo)
@@ -18,10 +18,10 @@ Extras:
     Darkmode
 
 
-:point_right: Para o teste siga abaixo:
+:point_right:  Para o teste siga abaixo:
 
- 1 - Rode o comando Yarn ou Yarn Install
- 2 - Rode o comando Expo Start 
+ - Rode o comando Yarn ou Yarn Install
+ - Rode o comando Expo Start 
 
  Divirta-se
 
